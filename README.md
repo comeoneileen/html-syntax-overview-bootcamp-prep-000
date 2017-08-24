@@ -1,6 +1,6 @@
 # Introduction to HTML
 
-HTML is the language you have spent the majority of your time with as a user of the internet. This is because HTML is the language of the web. Everything else you've ever heard of around web programming boils down to just modifying HTML and it's close sibling: CSS. We'll get into CSS in a bit, but for now let's investigate HTML.
+HTML is the language you have spent the majority of your time with as a user of the internet. This is because HTML is the language of the web. Everything else you've ever heard of around web programming boils down to just modifying HTML and its close sibling: CSS. We'll get into CSS in a bit, but for now let's investigate HTML.
 
 The fundamental building block of HTML is what's called a _tag_. Tags allow web developers to tell things to the browser like "make this text a header" or "include this image". Tags all follow the same format like this:
 
